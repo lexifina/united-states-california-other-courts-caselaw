@@ -1,0 +1,27 @@
+---
+court: "San Francisco District Court"
+decided: "1857-11"
+citations: ["2 Cal. Dist. Ct. 80"]
+reporter: "cal-dist-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LAWRENCE vs. KNIGHT."]
+source_url: "https://static.case.law/cal-dist-ct/2/cases/0080-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8154568
+---
+
+# Lawrence v. Knight
+
+## Majority (NORTON, J.)
+
+NORTON, J.
+— This is an action brought to recover the value of certain buildings erected by plaintiff’s assignor, on property leased to him for a term of years by the defendant. The term has about two years more to run. The foundation of the action is one of the covenants of the lease, which, after reciting that within a certain time the lessee should erect a brick house upon tho lot, provides that within a year “ after the expiration of the term ” defendant should pay the value of the buildings so erected. It appears that on the 4th of August, 1857, defendant, on account of the non-payment of rent, re-entered upon the premises under one of the covenants of the lease which au-thorises him so to do under the circumstances.
+The lessee now claims that this act, by determining the term, entitles him, under the above covenant, to recover the value of the buildings, which is alleged to be $15,000. Defendant demurs upon the ground that the complaint does not show that the time has elapsed within which the defendant was to pay for the improvements, and that plaintiff has therefore any cause of action. The question principally turns upon the construction of the word “ term,” — whether it shall be construed to mean the entire seven years as. expressed in the lease, or merely, as plaintiff contends, the duration of his estate in the land.
+The only authority which he has cited to support this construction is a remark made by one of the judges in Barroilhet v. Battelle, (7 Cal. April T.). This remark, however, was made incidentally, and by wray of illustrating the argument upon which the judge was then engaged, and was not a decision upon a point directly before the court, and the case supposed was not qualified as this is in regard to the appointment of appraisers.
+With regard to the phraseology of'this lease there is also a peculiarity. Ordinarily, in a case like this, there is added the clause “ or upon other sooner determination of the said term,” — which, had it been inserted in the present instance, would have obviated all difficulty so far as this point is concerned, and its omission would seem to indicate that the intention of the parties was to refer by the word “ term” to the entire space of time for which the lease was originally made, and in which ease plaintiff could not maintain his action until the expiration of the seven years.
+It is true that the word “ term ” frequently is employed to signify the duration of an estate, and as such may be concluded in various ways, as by forfeiture, &e. — but it is also often, and more particularly in its ordinary acceptation, used to express a determinate quantity of time, — and in this sense can be neither hastened or shortened by any acts or operations of the parties or of law. This I think must be its interpretation in the present case.
+There would also be considerable difficulty in determining this question in any other way, for it is further covenanted that at least sixty, and not more than ninety days before the expiration of the term, the value of the buildings should be determined by appraisers to be appointed by tbe parties, — a condition with which neither of them could comply, unless the particular point at which the period is to terminate be fixed beforehand. This case now arises. The complaint alleges that on the 3 3th of June, Knight served a notice on the tenants in possession to quit on account of non-payment of rent, — that afterwards on the 1st of July plaintiff notified Knight that he had appointed an appraiser, requesting him to do likewise, which he refused. Thq eviction was on the 4fch of August, thirty days after the appointment by Lawrence, and about fifty after service of the notice to quit, both being less than the sixty days provided for. This provision has not been and indeed could not be complied with in this case, and this provision has great weight in determining that the word term ” in this regard was meant by the parties to mean a fixed period, of which both parties had notice by the terms of the lease.
+Another ground of demurrer advanced is that it does not appear from the complaint that the action is local, or that either plaintiff or defendant is a resident of the city and county of San Francisco. It does not appear, however, that plaintiff is not. The allegation is that Knight, the defendant, “ of Napa Co.,” by his attorney in fact executed the lease, and that through various assignments therein set forth it has come to plaintiff’s possession. Advantage of such an objection cannot be taken by demurrer, unless the fact appears affirmatively in the complaint.
+The demurrer is sustained upon the grounds, first that the word “ term ” in the covenant which provides for the payment for the buildings must be construed to mean the entire period of the lease, and secondly that plaintiff has not shown such a compliance on his part with the' other portions of the agreement as entitles him to enforce it against the defendant.
+Demurrer sustained, with leave to amend upon payment of costs.
