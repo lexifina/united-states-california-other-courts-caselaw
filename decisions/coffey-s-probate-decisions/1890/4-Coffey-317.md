@@ -1,7 +1,8 @@
 ---
 court: "Coffey's Probate Decisions"
 decided: "1890"
-citations: ["4 Coffey 317", "4 Coffey 319"]
+decided_precision: "year"
+citations: ["4 Coffey 317"]
 reporter: "coffey"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
