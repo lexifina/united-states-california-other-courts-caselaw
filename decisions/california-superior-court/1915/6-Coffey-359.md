@@ -1,0 +1,37 @@
+---
+court: "California Superior Court"
+docket: "16,765 (N. S.)"
+decided: "1915-03"
+citations: ["6 Coffey 359"]
+reporter: "coffey"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Estate of WILLIAM G. IRWIN, Deceased."]
+source_url: "https://static.case.law/coffey/6/cases/0359-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4750859
+cites_cases: ["106 Va. 710", "123 N. Y. Supp. 637", "127 Pac. 166", "131 Ill. 33", "15 Conn. 273", "15 N. H. 317", "15 R. I. 321", "164 Cal. 22", "17 Pac. 438", "17 R. I. 207", "200 U. S. 130", "207 Mass. 419", "209 Mass. 323", "21 Atl. 365", "22 Atl. 848", "23 N. E. 603", "28 N. W. 353", "38 Atl. 219", "4 Atl. 758", "40 Atl. 894", "45 Me. 552", "49 Me. 288", "5 Del. Ch. 51", "56 S. E. 730", "57 Am. Rep. 278", "59 N. Y. 434", "60 Conn. 472", "66 Ky. 365", "66 Wis. 366", "68 Misc. 245", "69 Conn. 416", "75 Cal. 329", "87 Md. 664", "93 N. E. 637", "95 N. E. 798"]
+---
+
+# Estate of Irwin
+
+## Majority (COFFEY, J.)
+
+COFFEY, J.
+Upon the hearing of this application but one question is raised, and that is upon this clause in the will:
+“I do hereby give and bequeath to the United Charities of Honolulu the sum of Twenty-five Thousand ($25,000) Dollars, and to the United Charities of San Francisco the sum of Twenty-five Thousand ($25,000) Dollars. I make no other or further charitable bequests, preferring to leave to my wife as my residuary legatee, and following my custom, the making of such further benefactions as her judgment may suggest.”
+It is in evidence that there is no institution, association or body politic, social, religious, charitable or other, nor any society, voluntary or corporate, here, or in Honolulu, that answers literally the description of the paragraph herein-above quoted.
+There is, however, in this jurisdiction, an incorporated organization known officially as the Associated Charities of San Francisco, which claims to be the local object of testator’s bounty, and petitions the court for distribution of this legacy.
+There is no other claim contrary, except that in the memorandum of the widow it is asserted that testator meant exactly what he said, namely, “to the United Charities of San Francisco, Twenty-five Thousand ($25,000) Dollars.”
+The counsel who makes this statement drew the will, and it is to be presumed that he interpreted the mind of the testator faithfully and translated into testamentary language Ms intention. Did he? It is argued by him that the Associated Charities of San Francisco, through its counsel, erroneously assume that testator had in Ms mind, when he dictated the terms of his testament, one particular institution, and no other; but the widow’s advocate contends that there is no foundation for this assumption, and the court has no warrant in accepting the inference that testator made a mistake in Ms will.
+In his memorandum counsel for the widow says that testator made his bequest to the “united charities of San Francisco,” the initial letters of “united” and “charities” being in “lower case,” in printer’s parlance, and that if the clause in question were so written, he asks, Would there be a contention then made that the Associated Charities of San Francisco was the beneficiary intended under the will?
+Counsel then proceeds to argue that when testator said “United Charities of San Francisco” he meant all those charities united together which he had been in the habit of donating to in his lifetime.
+The grammatical construction of this sentence is somewhat awkward, but we take it that counsel means a combination or group of charities, such as is scheduled in the sworn statement of the widow, in which is included, “Associated Charities of San Francisco. ’ ’
+The clause is, as counsel says, somewhat inartistically expressed, but we may gather its meaning without extraordinary intellectual effort. Testator meant to bestow his bounty upon an actual existent institution which comprehended within the scope of its benevolent activities a unified system of dispensing charity; and testator, or his counsel, mistook for the moment the name, but retained accurately the idea, which was a union or association of charitable organizations formed for the purpose of distributing, without waste, the alms-deeds of their benefactors.
+This was the economic essence of the association, and this the motive of those who contributed to its maintenance, and, beyond doubt, the design of the testator.
+Extrinsic evidence was properly admitted to point to the fact that there was no other institution in tMs jurisdiction having any similar purpose; and the accident of misnomer or misdescription should not be allowed to nullify the design of decedent, which is evident from the context.
+The terms “associated” and “united” are equivalent, derived from the same etymological root, associare, to join or unite: Webster’s Dictionary.
+The institution here was formed for the purpose of joining and uniting, in an incorporated association or union, the various charitable organizations for a common purpose, as-stated in the articles of incorporation and by-laws, to conserve their energies and to distribute their means efficiently, so as to do the largest amount of good at the least cost.
+Undoubtedly the testator was made acquainted with these purposes and meant by his legacy to subserve and promote them. He intended this association to be his principal charitable conduit and beneficiary, making no other or further charitable bequests, preferring to leave to his wife or his residuary legatee, and following his custom, the making of such further benefactions as her judgment might suggest; but making certain arid specific the sum bequeathed to this institution, which, by a corrigible mistake, he misdescribed as the “United” Charities, meaning The Associated Charities of San Francisco, which mistake is here corrected, according to the rules of construction and the authorities, as. they are understood by the court.
+The authorities cited in support of this conclusion are: In re Gibson, 75 Cal. 329, 17 Pac. 438, affirming 1 Cof. Prob. Dec. 9 (see note to latter on page 12); Speer v. Colbert, 200 U. S. 130, 50 L. Ed. 403, 26 Sup. Ct. Rep. 201; Reilly v. Union Protestant Infirmary, 87 Md. 664, 40 Atl. 894; Jordan v. Richmond Home for Ladies, 106 Va. 710, 56 S. E. 730; Mason v. Massachusetts General Hospital, 207 Mass. 419, 93 N. E. 637; Pope v. Hinckley, 209 Mass. 323, 95 N. E. 798; Bristol v. Ontario Orphan Asylum, 60 Conn. 472, 22 Atl. 848; Woman’s Union Missionary Soc. v. Mead, 131 Ill. 33, 23 N. E. 603; Peckham v. Newton, 15 R. I. 321, 4 Atl. 758; Cady v. Rhode Island Children’s Hospital, 17 R. I. 207, 21 Atl. 365; Cromie v. Louisville Orphans’ Home Society, 66 Ky. 365; Lefevre v. Lefevre, 59 N. Y. 434; Wait v. Society, 68 Misc. 245, 123 N. Y. Supp. 637; Brewster v. McCall, 15 Conn. 273; Cosgrove v. Cosgrove, 69 Conn. 416, 38 Atl. 219; Trustees v. Peaslee, 15 N. H. 317; Howard v. American Peace Soc., 49 Me. 288; Preacher’s Aid Soc. v. Rich, 45 Me. 552; Doughten v. Vandever, 5 Del. Ch. 51; Webster v. Morris, 66 Wis. 366, 57 Am. Rep. 278, 28 N. W. 353; Estate of Donnellan, 164 Cal. 22, 127 Pac. 166.
+A Charitable Bequest to “The Old Ladies’ Home, at present near Rincon Hill, at St. Mary’s Hospital,” has been held to have been intended for the “Sisters of Mercy,” a corporation embracing, as part of its charitable design, “The Old Ladies’ Home”: Estate of Gibson, 1 Cof. Prob. Dec. 9.
