@@ -1,0 +1,39 @@
+---
+court: "Superior Court in and for the City and County of San Francisco, State of California"
+docket: "4,015"
+decided: "1886-01-07"
+citations: ["1 Coffey 101"]
+reporter: "coffey"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Estate of CYNTHIA HOFF SHILLABER, Deceased."]
+source_url: "https://static.case.law/coffey/1/cases/0101-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4780818
+cites_cases: ["108 Cal. 450", "121 Cal. 609", "122 Cal. 260", "13 Pac. 880", "14 Wyo. 101", "20 Or. 462", "20 Pac. 562", "21 Am. St. Rep. 44", "22 Pac. 86", "24 Pac. 1034", "3 Nev. 93", "30 Pac. 643", "38 Wash. 262", "4 Wash. 534", "41 Pac. 483", "42 Pac. 479", "46 Cal. 572", "54 Pac. 957", "54 Pac. 97", "65 Pac. 965", "72 Cal. 335", "80 Cal. 166", "80 Pac. 451", "86 Cal. 316", "93 Am. Dec. 376"]
+---
+
+# Estate of Shillaber
+
+## Majority (COFFEY, J.)
+
+COFFEY, J.
+It is the duty of the special administrator to collect and preserve for the executor or administrator all the goods, chattels, debts and effects of the decedent, all incomes, rents, issues and profits, claims and demands of the estate; he must take the charge and management of, enter upon and preserve from damage, waste and injury the real estate, and for any such and all necessary purposes may commence and maintain or defend suits and other legal proceedings as an administrator: Code Civ. Proc., sec. 1415.
+The account here under examination runs from and including February 26, 1885, to and including September 1, 1885—say six months. Its accuracy must be tested by strictly legal methods, under the rule of the foregoing cited section of the code.
+First Objection: Payler payments, numbers 7, 30, 46, 64, 78, 92, 99: disallowed, i. e., objection overruled: Estate of Miner, 46 Cal. 572.
+Second Objection: As to voucher 5: objection overruled> item allowed. As to vouchers 23, 26, 28, 45, 56, 71, 91 and 96: When in the care and management of a large estate, it is shown to be impracticable to do without clerical assistance to collect rents and keep accounts, the court usually makes some allowance, but the exercise of this discretion should be guarded. The executor is expected to perform some labor, and to use the utmost economy consistent with the protection of the estate intrusted to his custody and care. I have never made such allowances without rigorous proof of necessity, even when no objection was interposed, but such allowances have been made in probate courts repeatedly and in such circumstances as are suggested in this ease. Even if proper, however, the charge is out of proportion to the result. I shall allow at the rate of four per cent upon the collections; reserving to myself the right in other accounts to deal otherwise with any similar item, and acting now upon the evidence before me and my present view of the duty.
+Third Objection: Overruled under the evidence.
+Fourth Objection: Overruled under the evidence.
+Fifth Objection: Sustained. The court cannot understand the reason or necessity in such a case for such a charge.
+Sixth Objection: Until distribution the organ must be treated as part of the estate, and not allowed to deteriorate. Objection disallowed and overruled.
+Seventh Objection: Attorney’s fee, $500. The executor is entitled to such assistance, even when he is himself an attorney, and he needs other counsel. In this case, while he has been actively participant in all the proceedings, yet the counsel claiming the allowance has done, before the court, work entitling him to consideration, and his evidence is that in this service he is not a business partner of the executor. The executor, however, is a lawyer of competency and experience; that he must expect, hereafter, that the court will consider this fact in dealing with his accounts. In this instance I think the item should be allowed.
+Eighth Objection: Overruled.
+Ninth Objection: Overruled.
+Tenth Objection: With reference to this objection the court has given careful attention to the brief presented by the special administrator, and is disposed to consider this claim in the most liberal spirit consistent with its view of the law. The special administrator undoubtedly acted in good faith in journeying to New York in response to the telegram from Buffalo; but he should have consumed no more time than was actually necessary in the discharge of his business, and he is entitled to no more remuneration than, in the opinion of the court, would be proper for the dispatch of his errand to the east. The court regulates his charges in this manner:
+21 days necessarily consumed; loss of time, at $20.................................... $420 00 7 days in New York, at $5 per day; board, etc. 35 00 $455 00
+For his compensation as special administrator the court can, in the due exercise of its discretion, accept no other standard than that furnished by section 1618, Code of Civil Procedure, and allow accordingly:
+Commissions on amount accounted for, $10,394 14. First $1,000 00......................$ 70 00 9,000 00........................ 450 00 394 14........................ 15 77 $535 77 Extra comp., one-half rates............ 267 88 - $803 65 $1,258 65
+Tenth objection: While the tenant of the life estate is not entitled to immediate possession, she will be entitled on distribution to the rents, issues and profits; and, ordinarily, her intermediate occupancy might not seem to challenge criticism; but in the face of objection, the court cannot disregard the strictly legal aspect of the case; and must, therefore, hold the administrator accountable for the rental value of the premises; being disposed, however, to take into account the care bestowed upon the property by the temporary tenant or custodian. In allowing for the first (Payler) items objected to, the court has bestowed some consideration upon this point. The court will hold the administrator for the ascertained rental value of the premises on Sixteenth Street. Let the account of the special administrator be restated or amended in accordance with this opinion.
+An Administrator is Entitled to an Allowance for necessary expenses incurred in traveling on business connected with the preservation of the estate: Estate of Byrne, 122 Cal. 260, 54 Pac. 957; Estate of Rose, 80 Cal. 166, 22 Pac. 86; Rice v. Tilton, 14 Wyo. 101, 82 Pac. 577. Traveling expenses connected with the administration of foreign assets should be allowed out of those assets: Estate of Ortiz, 86 Cal. 316, 21 Am. St. Rep. 44, 24 Pac. 1034. An administratrix is not entitled to expenses incurred in traveling when taking steps to apply for letters of administration, or in attending the hearing of a contest over letters of administration: Estate of Byrne, 122 Cal. 260, 54 Pac. 957.
+An Administrator may, Under Some Circumstances, be Allowed in his accounts for the services of a bookkeeper: Estate of Moore, 72 Cal. 335; 13 Pac. 880; or of an expert accountant: Estate of Levinson, 108 Cal. 450, 41 Pac. 483, 42 Pac. 479. As a rule, the question whether an administrator is entitled to employ a bookkeeper depends on the circumstances of the estate; and should be left to the discretion of the court: Estate of More, 121 Cal. 609, 54 Pac. 97. He cannot charge the estate with the expense of hiring assistance in keeping his ordinary accounts: Lucich v. Medin, 3 Nev. 93, 93 Am. Dec. 376; Steel v. Holladay, 20 Or. 462, 20 Pac. 562.
+In Case an Executor or Administrator is Himself an attorney, he cannot charge the estate with the expense of another attorney to assist him in conducting the ordinary administration, unattended with any legal or other complications: Noble v. Whitten, 38 Wash. 262, 80 Pac. 451; Estate of Young, 4 Wash. 534, 30 Pac. 643; Estate of Coursen (Cal.), 65 Pac. 965.
