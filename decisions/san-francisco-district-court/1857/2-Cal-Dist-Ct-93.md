@@ -1,0 +1,30 @@
+---
+court: "San Francisco District Court"
+decided: "1857-12"
+citations: ["2 Cal. Dist. Ct. 93"]
+reporter: "cal-dist-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FULLER vs. HUTCHINGS."]
+source_url: "https://static.case.law/cal-dist-ct/2/cases/0093-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8154852
+cites_cases: ["10 John. 241", "2 Cal. 64", "23 Ohio 156", "3 Johns. Cas. 5", "4 Cal. 321", "5 Ala. 349", "5 Cal. 458", "5 Pick. 412", "6 Wend. 615"]
+---
+
+# Fuller v. Hutchings
+
+## Majority (Hager, J.)
+
+Hager, J.
+— This action, tried before the court without, a jury, is brought to recover the amount of a banker’s check, drawn .April 22d, 1.857, by defendant Hutchings, in the firm name of iSweetzer, Hutch-ings Oo., on Tallant $ Wilde, bankers, for the sum of twenty-five hundred dollars, payable to S. L. James or bearer. Hutchings makes answer to the complaint, and in effect admits that he alone gave the check, and that iSweetzer resides in the state of Massachusetts and had no knowledge thereof, and sets up as a special defense that the check was given “ for losses in bets on cards at a game of chance, prohibited by law,” and is without consideration: that it was delivered to Chapman, who represented the parties with whom the bets were made and lost, and that plaintiff received it with full knowledge of the circumstances, and paid no consideration therefor.
+By stipulation it is admitted that the check was given and delivered as alleged, for money lost at playing faro, which was the only consideration. It was also admitted on the trial that Sioeetzer had no knowledge of the transaction, and that on the said 22d of September, Chapman presented the check for payment, which was refused.
+It was proven that on the day before- the trial, defendant gave a written notice requiring plaintiff to prove how he had received, and the consideration he had paid for the check. No evidence was introduced tending to show that plaintiff had ever demanded payment, or that any presentation or demand had been made other than the one made by Chapman.
+Upon this state of facts, two questions are presented:
+1st. Was the check over due or dishonored when it was received by the plaintiff; is the consideration inquirable into between the parties, and can defendants make the same defense against plaintiff as they, could against the original holder, Chapman?
+2d. Is the check void for want of a legal consideration ?
+The supreme court in the case of Wild v. Van Valkenburg, 7 Cal. Jan. T., decided that in an action against the maker of a promissory note, it is necessary for the plaintiff to prove a demand of payment at the place specified in the note. The same rule must be applied to this instrument. It did not become due until after the demand by Chapman, and the refusal to pay. Now this is the only presentation relied upon by plaintiff to recover, which was made on the day of the date of the check. If plaintiff was an innocent purchaser without notice, he might have made a legal demand on the day following, but from the fact that he neglected to do so, it is not unreasonable to suppose that he had 'knowledge of the demand, and refusal, which had already been made, and which he has put in proof, and he must be regarded as having received it after it had been dishonored and was over due.
+It willnot be disputed but that the consideration would be inquirable into for the purpose of defense if the action was between Chapman and defendant, and it is a well settled rule of law that if a party takes a bill even for value after it has been dishonored or is over due,'.he receives it subject to all the equities that attach to it between the antecedent parties. Then upon the proofs it results that the' defendants can make the same defense against plaintiff that they would be entitled to make against Chapman. f
+The check having been given for money won at faro, under section three of the act of 1855, to suppress gaming, (statutes of 1855, p. 124,) it is declared “ to be void and of no effect as between the parties thereto, and as to all other persons except such as shall hold or claim under them in good faith, and without notice of the illegality of the consideration.” By the act of 1857, (statutes of 1857, p. 267,) which does not repeal the above provision of the act cf 1855, it is made felony to deal, and a misdemeanor to bet at, the game of faro, and it is punishable by fine and imprisonment. Both these acts were in full force when the money was lost and won and the check was given ; and if the evidence and admissions be true, Chapman and Hutchings have each rendered themselves amenable to their provisions. The plaintiff, for the reasons above stated, cannot be regarded as an innocent holder without notice within the meaning of the statute of 1855. Prior to the passage of either of the acts referred to, our supreme court held that a gaming debt was not recoverable, at common law, in this state. As between the immediate parties to the check the consideration is illegal, for the reason it is against the general principles of the common lavr, and because it is founded in the positive prohibition of a statute, and is malum prohibitum.
+According to the ordinary rule, plaintiff would be presumed prima fade to be a holder for a valuable consideration, and would not be bound to establish that he had givén any value until the defendants had established the illegality of the consideration. Rut here, besides the fact that the check had been dishonored before the transfer, defendants gave a written notice to the plaintiff, that upon the trial he would be required to prove the consideration he had paid. The plaintiff having failed to introduce any proof, explaining the manner he received, or the value he paid for it, and the illegality of the consideration having been established, he cannot be' considered a Iona fide holder, either according to the principles of the common law or within the meaning of the statute of 1855.
+Defendants are entitled to judgment. Finding ordered accordingly.
