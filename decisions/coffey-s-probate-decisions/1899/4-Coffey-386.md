@@ -2,7 +2,7 @@
 court: "Coffey's Probate Decisions"
 docket: "15,120"
 decided: "1899-12-06"
-citations: ["4 Coffey 386", "4 Coffey 423"]
+citations: ["4 Coffey 386"]
 reporter: "coffey"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Estate of JOSE VICENTE DE LAVEAGA, Deceased."]
 source_url: "https://static.case.law/coffey/4/cases/0386-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5775487
-cites_cases: ["119 Cal. 651", "142 Cal. 158", "19 L. R A. 40", "21 Pac. 976", "22 Pac. 742", "22 Pac. 743", "3 Barb. Ch. 132", "31 Pac. 915", "51 Pac. 1074", "59 Ind. 292", "6 L. R A. 594", "6 L. R. A. 594", "75 Pac. 790", "81 Cal. 420", "81 Cal. 423", "81 Cal. 424", "81 Cal. 425", "81 Cal. 435", "81 Cal. 443", "81 Cal. 456", "81 Cal. 457", "81 Cal. 458", "96 Cal. 578"]
+cites_cases: ["119 Cal. 651", "142 Cal. 158", "21 Pac. 976", "22 Pac. 742", "51 Pac. 1074", "59 Ind. 292", "6 L. R A. 594", "6 L. R. A. 594", "75 Pac. 790", "81 Cal. 435", "81 Cal. 456", "81 Cal. 458"]
 ---
 
 # In re Estate of de Laveaga
