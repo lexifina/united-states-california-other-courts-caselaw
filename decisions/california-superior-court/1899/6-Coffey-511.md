@@ -2,7 +2,7 @@
 court: "California Superior Court"
 docket: "19,516"
 decided: "1899-05-31"
-citations: ["6 Coffey 511", "5 Coffey 431"]
+citations: ["6 Coffey 511"]
 reporter: "coffey"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
