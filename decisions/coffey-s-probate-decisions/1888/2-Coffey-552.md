@@ -1,0 +1,24 @@
+---
+court: "Coffey's Probate Decisions"
+docket: "5695"
+decided: "1888-12-11"
+citations: ["2 Coffey 552"]
+reporter: "coffey"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Estate of ANNA J. SKERRETT, Deceased."]
+source_url: "https://static.case.law/coffey/2/cases/0552-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4788151
+cites_cases: ["1 N. D. 216", "128 Ill. 430", "144 Cal. 121", "147 Cal. 95", "15 Am. St. Rep. 120", "21 N. E. 503", "46 N. W. 413", "6 Pac. 7", "66 Cal. 432", "77 Pac. 825", "81 Pac. 315"]
+---
+
+# Estate of Skerrett
+
+## Majority (COFFEY, J.)
+
+COFFEY, J.
+I am inclined to think that this matter really hinges on the question whether this property shall be treated as real property. I do not think that one part of Mr-Burnett’s argument is sound; it is specious, but unsound. The "intention of the testator—gathered from the terms of the instrument, the will—is to distribute the proceeds. What was meant to leave to the discretion of the Cardinal is the distribution of the money, because it could not reasonably be imputed to her that she meant that he was to distribute the real estate; and, if there is anything to be gathered from that instrument, it is that in his discretion he was to distribute the proceeds among the poor—that is what I should say would be a reasonable construction of the language of the will, taking it according to the rules of construction laid down in the statutes, the surroundings and so on, and I have only to repeat now, what I said the other day, so far as construing this will is concerned, it is a question whether it is for this court to make the construction, or the court of principal jurisdiction. The court of principal jurisdiction would deal with the rights of the creditors and other parties within the jurisdiction of that court, rather than according to the laws of this state. When the section 1667 speaks of another state, it refers—by reference to section 1322—to any foreign state, because the language of 1322 is “any foreign country or state,” and then 1667—it says, any other “state.” It does not say any other foreign state—it is not necessary, because, as we all know, every other state is foreign to the state of California, no matter whether any of the other states would be one of the United States, or any English state, or any other country across the water. If this is to be tried according to the doctrine of equitable conversion, then it comes within the purview of the decision in the Estate of Apple, 66 Cal. 432, 6 Pac. 7, which remits the whole question to the domiciliary jurisdiction—in this instance being England, as in that instance it was Nevada; and as to this jurisdiction, both of them are equally foreign states. Now, Mr. Burris’ argument has made sufficient impression upon my mind to cause me to examine this question further, and to see if this court is competent to try the provisions of this will with reference to the validity of the bequest or the invalidity of the bequest as argued in this case. I will take the matter under advisement, and look into it a little further, and as soon as possible render a decision. My present impression is—if I adhere to that—I will say that the assets should be remitted to the other jurisdiction.
+After the court had further considered the matter, the original impression was confirmed and the petition was granted.
+Equitable Conversion is that change in property by which, for certain purposes, real estate is considered as personal, and personal as real. Whether such a result is worked by a will depends upon the intention of the testator. If it is apparent from, the express terms of the instrument, or by necessary implication, that he intended his real estate to be sold and the proceeds given his beneficiaries, an equitable conversion results, although perhaps the direction to sell is not imperative, as where the word “desire,” instead of “direct,” is addressed to the executors: Estate of Pforr, 144 Cal. 121, 77 Pac. 825; Penfield v. Tower, 1 N. D. 216, 46 N. W. 413; Haward v. Peavey, 128 Ill. 430, 15 Am. St. Rep. 120, 21 N. E. 503.
+When a testator creates a trust of all his property, real and personal, some of the realty being in different states, with a direction to his executor to sell it all and invest the proceeds in land in a specified city, the property mentioned in the will is considered, in equity, as real property situated in the city designated: Estate of Dunphy, 147 Cal. 95, 81 Pac. 315. And if a will works a conversion of real property into personalty, a trust in respect thereto is a trust of personal property, the validity of which is determinable, not by the law of the situs of the realty, but by the law of the place where the testator was domiciled at the time of his death: Penfield v. Tower, 1 N. D. 216, 46 N. W. 413.
