@@ -1,0 +1,64 @@
+---
+court: "Probate Court of the City and County of San Francisco"
+docket: "5630"
+decided: "1878-04-18"
+citations: ["1 Myrick 241"]
+reporter: "myrick"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ESTATE OF CHARLES PATTON."]
+source_url: "https://static.case.law/myrick/1/cases/0241-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4779403
+cites_cases: ["42 Cal., 210"]
+---
+
+# Estate of Patton
+
+## Majority (By the Court:)
+
+This is an application by the widow for partial distribution. The executors interpose an alleged marriage contract, by the terms of which the earnings and accumulations of each were to be separate property, subject to testamentary disposition. The widow objects to the contract, on the ground that it was not properly executed.
+The contract was drawn by the deceased and signed by the parties a few minutes before the marriage, while the clergyman, parties, and guests were assembled for the marriage ceremony. It was not at that time acknowledged before an officer, but was acknowledged by them some eight years after the marriage.
+By the Court:
+The statute of this State, in force when this contract was signed (1 Hittell, 8576), required that “all marriage contracts shall be in writing, and executed and acknowledged, or proved, in like manner as a conveyance of land is required to be executed and acknowledged or proved.”
+The contract must be complete in all its parts before the marriage. It must be in writing, signed and acknowledged by the parties. It was urged that as conveyances of real estate are good as between the parties without acknowledgment, a marriage contract is good as between the parties without acknowledgment. I do not concur in that view. The statute says that the marriage contract shall be acknowledged, or proved, in like manner as conveyances are required to be acknowledged or proved; which does not mean that it shall be acknowledged in like manner as conveyances are owt required to be acknowledged. When a conveyance is to be acknowledged, it is to be acknowledged in a particular manner; and that is the manner in which all marriage contracts are to be acknowledged. As the alleged contract was not acknowledged, or proved, before the marriage, it is not a marriage contract, and has no validity as such.
+The widow made other points, viz:
+1. That the Probate Court has no jurisdiction to enforce the contract, if it be one; that a court of equity is the only court having jurisdiction.
+2. That the contract is void, as against public policy.
+Both these points must be decided against the widow.
+The Probate Court has jurisdiction to determine to wlxom an estate must be distributed; which may embrace the application of the terms of a contract. It is not against public policy for parties to contract as to what shall be community and what separate property.
+November, 1879.
+This is an application by the widow of Charles Patton, deceased, for distribution of one-half the community property to her, as survivor of the matrimonial community.
+The answers of the executors and the residuary legatees under decedent’s will, set up:
+1st. An ante-nuptial contract between decedent and the petitioner, to the effect that all the property of each, whether acquired before or after the marriage, is to be deemed separate property.
+2d. That decedent’s will undertakes to dispose of the entire property, and that the widow, being thereby put to her election, has heretofore elected to take under the will, by acceptance of legacies therein bequeathed to her.
+3d. That, in point of fact, the whole estate was acquired before marriage, and there is no community property.
+Upon the first hearing in this matter, this Court, in its rulings as to admissibility of evidence, held the alleged ante-nuptial contract invalid, by reason of defective execution, and also decided that under the rule laid down in Estate of Silvey (42 Cal., 210), only the separate and one-half of the community property were within the purview of the will.
+This disposed of the first two grounds of opposition, and the case thereupon went to a referee, to ascertain and report the facts as to what property came to the hands of the executors; what, if any, remained for distribution; and what portion, if any, was community property.
+The case now comes up for final adjudication, upon the report of the referee.
+A motion is made on the part of the petitioner that this Court re-hear the testimony and modify the report of the referee, upon the ground of the insufficiency of the evidence to justify the referee’s findings, and that the decision therein is contrary to law.
+The specifications of error relate only to conclusions of law contained in the referee’s report, and the motion must be denied.
+The reference was merely to report certain facts, and not to try the whole issue.
+Under C. C. P., Sec. 645, the finding reported has the effect of a special verdict, and so far as the report contains conclusions of law, it is merely advisory to the Court, which wall draw its own conclusions of law from the facts found (C. C. P., Sec. 624). If the findings of fact are to be attacked, it must be hereafter by a motion for new trial.
+The material facts, as reported, are as follows: Charles Patton died, December 25, 1873, being a resident of this city and county. His will was duly admitted to probate in this Court, and letters testamentary issued thereon. The will is voluminous in its provisions, but so far as material here, their gist is that the estate is to be converted into cash by the executors, and after payment of sundry pecuniary legacies to the decedent’s wife, children, and other relatives, the residue is to be invested on mortgage, and continue accumulating for a term of years; after which, and payment of small, further legacies, it is ultimately to be divided into two equal parts, one going to his children by the petitioner (of whom one only now survives), and the other going to the children of decedent’s sister.
+The marriage of decedent with the petitioner occurred at Philadelphia, Pa., February 25, 1863. He was then a resident of California, and immediately afterward brought his wife to this State, where they thenceforth resided. At the time of the marriage he was free from debt, and owned good promissory notes, etc., afterwards realized, to the amount of $7,294.83.
+His only other property of any value was a lot of land at Petaluma, known as lot No. 114, and an undivided interest in a tract of land upon Bernal Heights, in this city, acquired by deed of June 12, 1860, to himself and one Tarlton Caldwell.
+Subsequently to the marriage, an amicable partition was had, by which Charles Patton’s portion was set off to him in severalty. This land came to the possession of the executors.
+At the time of the marriage, the tract was wholly unimproved, but afterward, Patton expended thereon, for building and fencing, about $1,000, out of the community property, and he and his family resided thereon at the time of his death.
+There was no evidence as to the value of the property at the time of the marriage, except the consideration of $8,000 expressed in the deed of June 12, 1860. At the time of Patton’s death, the value had greatly increased, but such increase (beyond the $1,000 expended in improvements, as aforesaid,) was wholly owing to the extension of the city in its direction, and the increased facilities in reaching the business part of the city therefrom.
+A small portion of this tract was set apart to the family as a homestead by order of this Court. The remainder was, at the time of decedent’s death, under a contract of sale on which he had received $10,000. Conveyance was made by the executors pursuant to the contract, and the balance of $80,359 was received by them in cash and notes secured by mortgage.
+After his marriage, decedent was engaged in various kinds of business in this State, farming, operating in real estate and in mining stocks, and acting as agent for others. He also collected and invested with his own moneys, certain moneys of his wife, for which, with interest, she has claimed and received payment from the executors. He did not keep separately the funds received by him from different sources, but intermingled and deposited, paid out, loaned or invested the same indiscriminately.
+The referee has ascertained, however, that he kept invested in his business, up to the time of his death, the cash collected on promissory notes, etc., owned before marriage, and on account of sale of the Bernal Heights property— making a total of $17,294.83, to which the $1,000 before alluded to as expended on the separate property is a partial offset—leaving a balance of $16,294.83.
+There is no finding of any income or profit from such investments. At decedent’s death, in addition to the ante-nuptial real estate above mentioned, he was possessed of other real estate on the Potrero Nuevo in this city and county, and at Petaluma, and of personal property consisting principally of promissory notes, mining stocks, etc., on which about $32,000s were realized by his executors. The only ante-nuptial property traced into this by the referee is the $16,294.83 above alluded to.
+Most of the estate has been converted into cash by the executors, and the surplus funds in their hands have been put out on interest, so that the total estate received by them, with its accumulations, has amounted to about $150,000.
+All of decedent’s debts were contracted after the marriage and (except the claims of his wife for conversion of her moneys), were for general or family expenses. These debts have been paid by the executors, and they have made other proper disbursements to a large amount, in due course of administration.
+These may be classified as follows: Pecuniary legacies bequeathed by the will, family allowance, funeral expenses, burial lot, monument to deceased ($775), expenses incurred in the preservation,6 care, and management of specific pieces of property (inclusive of taxes on the same), commissions of executors, and general expenses of administration, such as fees of attorney for executors, court fees, etc.
+Upon this state of facts the referee has treated as separate property the proceeds of sale received by the executors from the Bernal Heights tract and Lot 114, Petaluma, with the rents accrued prior-to sale and the interest derived by the executors on such portions of said proceeds as they have loaned; also the sum of $16,294.83 above mentioned. The remainder of the estate, he has treated as community property.
+Withlthis division neither party is fully satisfied.
+On the part of the petitioner, it is urged that the appreciation in the value of the Bernal Heights’ property since the marriage (it having been purchased for $4,000 and sold for upward of $90,000) belongs to the community estate.
+The Court is of opinion, that if the impress of separate estate is once fixed upon property, that impress remains, and determines its character, where, as in this case, the enhanced value is caused by the growth of a city and by the surroundings, no act of the party having of itself contributed to the enhancement. Hence it follows that the Bernal Heights property was and its proceeds are the separate property of the deceased and subject to his testamentary disposition.
+The other questions raised relate to the apportionment of the disbursements of the executors as between the community and the separate estates, and this Court is of opinion that the legal and proper apportionment is as follows:
+Each estate is chargeable with executors’ commissions on its gross amount, with proper average of the legal per-cent-ages; with all specific expenses incurred in its own preservation, care and management, and with its proportion, according to the gross amount of each estate respectively, of the general expenses of administration, so far as now paid or accrued.
+The community estate is also chargeable with the payment of the debts of the deceased existing at the time of his death (including Mrs. Patton’s claims for money converted), the expenses of his last sickness and funeral expenses, (including the burial lot, but exclusive of the monument,) and the amounts paid on family allowance.
+The separate estate (or rather, the testamentary estate, . which excludes only the widow’s half of the community property,) is chargeable with all moneys paid or to be paid on account of the legacies or pursuant to other provisions of the will, and the expenses of the monument to the deceased.
+The future expenses of administration will be a charge , upon the estate to remain in the hands of the executors after this distribution, as the continuance of the administration will be for its benefit alone.
