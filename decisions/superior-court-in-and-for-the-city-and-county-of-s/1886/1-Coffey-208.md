@@ -1,0 +1,25 @@
+---
+court: "Superior Court in and for the City and County of San Francisco, State of California"
+docket: "3,308"
+decided: "1886-08-26"
+citations: ["1 Coffey 208"]
+reporter: "coffey"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Estate of PETER G. PARTRIDGE, Deceased."]
+source_url: "https://static.case.law/coffey/1/cases/0208-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4782016
+cites_cases: ["125 Cal. 302", "2 Pac. 298", "29 Wash. 535", "38 Or. 493", "4 Mont. 560", "43 Cal. 543", "57 Pac. 1010", "58 Cal. 457", "63 Pac. 689", "70 Pac. 74"]
+---
+
+# Estate of Partridge
+
+## Majority (COFFEY, J.)
+
+COFFEY, J.
+This is an application to compel the administrator to include in his inventory certain bonds—“Sacramento County Bonds”—alleged to belong to the estate of Peter G. Partridge, deceased. The administrator makes response that the reason of his omission was and is that John Partridge, nephew of deceased testator and son of Patrick M. Partridge, the sole devisee and legatee under the will of Peter G., asserted title to the lands, which title was recognized by the disinherited only son of deceased testator, Louis Partridge, now deceased, whose surviving widow is the moving party in this proceeding. The agreement between Louis and John was in writing. There were only two persons interested in the subject matter at that time, Louis, the disinherited child, and Patrick M., resident in Canada, who was the universal devisee and legatee. Between these two a settlement was made outside of court, and without opposition the will was admitted to probate. Thereafter the controversy between Louis and John about the ownership of the bonds was apparently adjusted. In this hearing the administrator stood aside, as a “neutral” spectator, professing willingness to submit to any order the court might make, after taking testimony, as to the transaction between Louis and John. John Partridge then came in, represented by special counsel, and has undertaken to show that, inasmuch as he owned and owns the bonds in question, the administrator cannot be obliged to include them in the inventory. The administrator cannot assume an attitude of neutrality. He must, under the statute (Code Civ. Proc., sec. 1443 et seq.), make a true inventory and appraisement of all the estate which has come to his possession or knowledge, and he is accountable therefor. If any portion of the estate is claimed by others, it seems prudent to include this item in the list, with words or a memorandum stating the asserted claim: Schouler’s Executors and Administrators, sec. 233.
+Without reference in any manner to the character of the transaction between John Partridge and the deceased Louis, it is clear that the administrator should have included the disputed item in his inventory. The only reason why the decision has been deferred is that the court was desirous of placing the parties upon an equal footing in any litigation as to the title in another tribunal. After a full and anxious consideration of the whole matter, a consideration of the arguments and briefs and review of the testimony, I am convinced that the correct conclusion is that the administrator should inventory these bonds. Any other conclusion would, in my judgment, be equivalent to assuming a jurisdiction which this court sitting in probate may not exercise.
+A court of probate ought not, it would appear, to reject an inventory, or order it modified, because it contains property, the title to which is disputed; for to common-law tribunals belongs the adjudication of the title, and the probate court cannot conclude the question: Schouler’s Executors and Administrators, sec. 236; Gold’s Case, Kirby (Conn.), 100 (see opinion on page 103).
+Application granted.
+When Doubt Arises as to Whether any Particular Piece or Article of Property should be inventoried as a part of the estate of a decedent, the court may institute an inquiry, and hear evidence to ascertain the ownership of such property; not for the purpose finally to determine the title, for that would exceed the jurisdiction of the probate court, but to determine, prima facie, whether the property belongs to the estate and should be inventoried. The investigation involves the bona fides of the claimants and the faithfulness to his trust of the executor or administrator; and the determination of these questions may serve as a basis for compelling Mm to inventory the property, or for removing Mm from office. But the adjudication of the court, or the recitals of the inventory, are not conclusive in another forum of the decedent's ownership, either as against third persons or against the executor or administrator: Estate of Rathgeb, 125 Cal. 302, 57 Pac. 1010; Lamme v. Dodson, 4 Mont. 560, 2 Pac. 298; Estate of Bolander, 38 Or. 493, 63 Pac. 689; Estate of Belt, 29 Wash. 535, 70 Pac. 74. The valuations given in the inventory are not conclusive for any purpose: Estate of Hinckley, 58 Cal. 457, 516; Estate of Simmons, 43 Cal. 543.
