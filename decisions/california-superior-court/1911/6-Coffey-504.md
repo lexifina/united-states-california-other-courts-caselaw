@@ -1,0 +1,23 @@
+---
+court: "California Superior Court"
+docket: "9041 (N. S.)"
+decided: "1911-11-16"
+citations: ["6 Coffey 504"]
+reporter: "coffey"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of Estate of GEORGE DELAPORTE, Deceased."]
+source_url: "https://static.case.law/coffey/6/cases/0504-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4750690
+cites_cases: ["145 Cal. 559", "15 Pac. 769", "16 Pac. 206", "72 Cal. 597", "74 Cal. 384", "79 Pac. 428"]
+---
+
+# In re Estate of Delaporte
+
+## Majority (COFFEY, J.)
+
+COFFEY, J.
+If the petition herein be subject to the ordinary rules of pleading, it is at least doubtful if it could stand against demurrer. In the Mackay case, relied upon by petitioner, there was no demurrer; issue was joined upon the allegations made in the petition. There is no statutory provision for the framing of issues in such cases. Ordinarily, where there is no question of the status of the applicant, such matters, are presented informally; but the lack of formality in pleading does not relieve the applicant 'from the burden of establishing her claim .to recognition under the statute. While the petition may be framed in terms not strictly formal, yet it is traversable, and an order made thereupon is appealable. It is final if not appealed from in proper season. It is not reviewable thereafter'; the power of the court over it is at end, for the court of first instance cannot act as an appellate court to review its own orders. It is conclusive as to the status of the person in whose favor it was made for all purposes connected with the order and payment of the money thereunder. In the Nolan Estate, 145 Cal. 559, 79 Pac. 428, this doctrine was declared, although it turned out that the woman who obtained the allowance .and who had been appointed administratrix never was the wife or widow of decedent. This fact, was ascertained in a proceeding for partial distribution, in which it was determined that decedent left no widow, but that certain collateral kin were his only heirs, whereupon these heirs sought in the settlement of her account to charge the administratrix with the amount paid to her for family allowance on the assumption that she was the widow. It was held by the appellate court that there was no relief for the heirs, as the validity of the order could not be attacked collaterally. Of course it could be modified from time to time according to the change in condition or circumstances of the estate; and equally, of course, there must be proof of the applicant’s right to a family allowance. Such proof was made in the Nolan case, and it was considered for that purpose conclusive; but upon distribution evidence was adduced which demonstrated that the pretensions of the alleged widow were unfounded and distribution was decreed to the collateral heirs; yet, nevertheless, they had no recourse for the amounts paid out or due upon the original order. While it may be that, as the widow is entitled to an allowance as a matter of right, no notice of the court’s intention or action in the matter is required, nor a formal application absolutely necessary, yet judicial prudence dictates and experience teaches that the court should be cautious in passing upon such applications. The necessity of such caution in procedure was shown not only in the Estate of Nolan, but also in the Estate of Maxwell, 1 Cof. Prob. Dec., 126 (see In re Maxwell, 74 Cal. 384, 16 Pac. 206), where orders were obtained upon premises afterward ascertained to be false; and the propriety of practice and procedure being carefully guarded was pointed out by Mr. Justice Temple in Kearney v. Kearney, 72 Cal. 597, 15 Pac. 769, suggesting that probate judges adopt a suitable mode of proceeding to avoid the grave questions that sometimes arise where action is taken without notice. Chief Justice Searles concurred in this suggestion, and it was afterward adopted and extended by this court to cover family allowances as well as homesteads: See Probate Rule 7, Superior Court. Subsequently the legislature enacted section 1465a of the Code of Civil Procedure, which careful practitioners apply to matters of family allowance as within the spirit of the rule.
+While the strict rules of pleading may not be applicable here, under our statute, reason should seem to require that, where so important a question of fact is raised and a contest ensues, the petition should conform to the requirements of a complaint in a civil action; but the law, as it at present ■exists, is not so rigorous, and the court must accept the petition as presented.
+Demurrer overruled.
