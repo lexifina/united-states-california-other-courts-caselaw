@@ -1,0 +1,34 @@
+---
+court: "Superior Court, in and for the City and County of San Francsico, State of California"
+docket: "13 (N. S.)"
+decided: "1906"
+citations: ["5 Coffey 402"]
+reporter: "coffey"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Estate of JOHN R. HITE, Deceased."]
+source_url: "https://static.case.law/coffey/5/cases/0402-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4761680
+cites_cases: ["101 Pac. 8", "155 Cal. 390"]
+---
+
+# Estate of Hite
+
+## Majority (COFFEY, J.)
+
+COFFEY, J.
+In June, 1906, F. A. Berlin petitioned this court for admission to probate of the will of John R. Hite, alleging that the will consisted of three documents: 1. The original will dated July 29, 1902, which nominated him as executor; 2. The first codicil dated March 29, 1906; and 3. A second codicil dated April 16, 1906.
+The paper presented as the original will, among the other legacies, bequeathed $5,000 each to Alexander Mathews, Etta Gross and Mrs. Libbie Stearns, and bequeathed $10,000 to his sister Lucretia V. Grove. The residuum of the estate was bequeathed and devised, one-third to Lucretia Y. Grove, one-third to J. Claude Riley, and one-third to the children of Martha E. H. Cupp, a deceased sister.
+The paper presented as the first codicil revoked the legacies of $5,000 each to Alexander Mathews, Etta Gross and Mrs. Libbie Stearns, and bequeathed to each of them instead the sum of $2,000.
+Two new legatees appear in the codicil: Mary Grove to the amount of $5,000, and the Central Trust Company, as trustee of a minor, was left a promissory note for $3,758.72 dated July 26, 1903. It does not appear whether the note bore interest, or what, if any, interest was unpaid.
+The interests of the residuary legatees was but little, if at all, affected by this codicil.
+The paper presented as the second codicil bequeathed to Lucretia Y. Grove $200,000 in lieu of the legacy of $10,000 left her by the original will.
+On July 16, 1906, Etta Gross filed a contest to the first codicil, and on the same day Etta Gross and J. Claude Riley filed a contest to the second codicil.
+Titus, Wright & Creed filed answers as to both contests as attorneys for F. A. Berlin, executor, and also filed answer as to the contest of the second codicil for Lucretia Y. Grove, and performed work in preparing for trial. There was finally a compromise between Lucretia Y. Grove and the contestants, and the contest was dismissed. The will and codicil were admitted to probate and F. A. Berlin was appointed and qualified as executor, and thereafter petitioned this court for an allowance to him as executor for fees earned by his attorneys, Titus, Wright & Creed, for services in maintaining the will and codicils as against the attacks of contestants.
+J. C. Riley filed written objections to the allowance of any attorney’s fees on the following grounds: 1. That the alleged services were rendered prior to the probate of the will and issuance of letters testamentary; 2. That the alleged services were rendered for the benefit of Lucretia Y. Grove, not for the benefit of the estate of John R. Hite; 3. That the court has no power to allow to the executor attorney’s fees in contest of a will before probate thereof; 4. That if the court has such power this is not a proper case in which to exercise it.
+The court sustained the objection and denied the petition for allowance.
+Prior to the decision of the court it was ascertained that P. A. Berlin, executor, had appropriated large sums of money of the estate to his own use and was unable to replace them. He was suspended from his office as executor and a special administrator appointed. Thereupon Titus, Wright & Creed filed a petition on their own behalf for an allowance for attorney’s fees, setting up the same facts as to services rendered as were contained in Berlin’s petition, and alleging in addition the suspension of said Berlin for violation of his trust, and claiming that they were entitled to an allowance under section 1616, Code of Civil Procedure, and that they should not be deprived of their fees by reason of the misconduct of Berlin after their services had been rendered and their employment ended. To which petition J. C. Riley filed a demurrer. Before the filing of the demurrer an order had been made revoking the letters testamentary issued to Berlin. The court sustained the demurrer and denied the petition.
+The court declines to pass upon the question whether or not it is in the power of the court to make an allowance to the person named in a will as executor for attorney’s fees contracted for by him, in resisting a contest to a will proposed for probate and before probate thereof, such decision being unnecessary to the decision of this case. Where, as in this ease, a contest of a will is inaugurated by one residuary legatee against another residuary legatee, it is a controversy in which a person named as executor in the proposed will, and the estate of the decedent, is not interested. In such case it would be improper to allow the nominated executor fees of an attorney employed by him to resist a contest. Section 1616 of the Code of Civil Procedure, as amended in 1905, gave no right to an attorney for an executor to fees which he did not possess before. Prior to the amendment his fee might be an allowance to the executor as part of the expenses of administration. That is still the case. Section 1616, prior to 1905, read thus: “He shall be allowed all necessary expenses in the care, management, and settlement of the estate, including reasonable fees paid to attorneys for conducting the necessary proceedings or suits in courts.”
+Estate of Reddy was before the supreme court in 155 Cal. 390, 436, 448, 101 Pac. 8, 443, 448.
+In the amendment of 1905 the portion of the section italicized as above was omitted, but the omitted portion was in effect incorporated in the new section 1619 passed on the same day as the amendment to section 1616 and in pari materia with it. Attorney’s fees are still an allowance to an executor or administrator and to be accounted for by him in his accounts. Under section 1616, as amended, the attorney may in his own name petition for allowance of fees, which he could not do previously, but the fees to be allowed are the fees which would have been properly allowed to an executor or administrator in the settlement of his accounts. This court, having decided in the matter of the petition of Berlin that the fees of these attorneys could not properly be allowed to him in his accounts, cannot allow such fees directly to the attorneys. An executor does not forfeit his right to commissions or allowances by misconduct or embezzlement. The decision of these petitions has not been influenced by the official misconduct of Mr. Berlin.
